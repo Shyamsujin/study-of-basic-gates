@@ -85,8 +85,8 @@ endmodule
 ```
 
 
- Developed by:KISHAN SHREE B
- RegisterNumber: 212223100022
+ Developed by:SHYAM SUJIN U
+ RegisterNumber: 212223040201
  
 **Logic symbol & Truthtable**
 ![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/b73e4190-1b50-48d3-9c37-e50f489b639c)
