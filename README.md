@@ -1,3 +1,7 @@
+## NAME:U SHYAM SUJIN
+## REG NO.212223040201
+
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -65,15 +69,41 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```
 
- Developed by: RegisterNumber: 
+module Basic (a, b, y1, y2, y3, y4, y5, y6, y7) ;
+input a, b;
+output yl, y2, y3, y4, y5, у6, y7;
+and (yl, a, b) ;
+or (y2, a, b) ;
+not (y3,a) ;
+xor (y4, a, b) ;
+nor (y5, a, b) ;
+nand (y6, a, b) ;
+nor (y7, a, b) ;
+endmodule
+```
+
+
+ Developed by:KISHAN SHREE B
+ RegisterNumber: 212223100022
  
 **Logic symbol & Truthtable**
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/b73e4190-1b50-48d3-9c37-e50f489b639c)
+
+
 
 **RTL realization Output:** 
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/6fa40e08-f18b-4cc2-a1d4-d20c1538dadb)
+
+
+
 
 **RTL**
+![image](https://github.com/KishanShreeB/study-of-basic-gates/assets/144870434/26390718-6a94-48f9-9196-6e5b4e954a91)
+
+
 
 **Result:**
 
-
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
